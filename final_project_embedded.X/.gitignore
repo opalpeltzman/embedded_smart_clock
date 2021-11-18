@@ -1,0 +1,8 @@
+*.flag
+*.o
+*.d
+*.xml
+*.elf
+*.map
+*.hex
+*.mk
